@@ -1,0 +1,13 @@
+body{
+    background:#f4f4f4;
+    font-family:Arial,sans-serif;
+}
+
+.container{
+    text-align:center;
+    margin-top:150px;
+}
+
+h1{
+    color:blue;
+}
